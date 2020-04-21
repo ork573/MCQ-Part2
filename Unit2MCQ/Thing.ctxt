@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Thing
+comment0.text=\n\ Write\ a\ description\ of\ class\ Skill_2A\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Thing()
+comment2.params=setColor
+comment2.target=Thing(java.lang.String)
+comment3.params=
+comment3.target=void\ getColor()
+numComments=4
